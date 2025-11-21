@@ -1,0 +1,17 @@
+body{
+    background-color: green;
+}
+/* nav{
+    border-color: green;
+    border-width: 2px;
+    border-style: solid;
+} */
+.one{
+    background-color: white;
+    /* border-color: green;
+    border-width: 2px;
+    border-style: solid;         */
+    display: inline-block;
+    width: 275px;
+    height: 400px;    
+}
